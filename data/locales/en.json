@@ -1,0 +1,615 @@
+{
+  "common": {
+    "brandName": "Apex Submersible Pump Repair",
+    "brandTagline": "Submersible Pump & Motor Rewinding Specialists",
+    "topNotice": "Dedicated Workshop & On-Site Borewell Pump Repair Service",
+    "timing": "Mon–Sat: 8:00 AM – 8:00 PM",
+    "navHome": "Home",
+    "navRepair": "Repair Services",
+    "navBorewell": "Borewell Team",
+    "navTroubleshooting": "Troubleshooting Guide",
+    "navAbout": "About Us",
+    "navContact": "Contact Us",
+    "callNow": "Call Now",
+    "callForRepair": "Call for repair",
+    "callWorkshop": "Speak with Head Technician",
+    "mobileHelpPrompt": "Need Immediate Help?",
+    "phone": "+91 98765 43210",
+    "repairWorkerPhone": "+91 98765 43210",
+    "borewellWorkerPhone": "+91 98765 43211",
+    "address": "Plot No. 42, Industrial Area Phase 1, Near Water Works, Main Bypass Road",
+    "workingHours": "Monday – Saturday: 8:00 AM – 8:00 PM | Sunday: Emergency On-Call",
+    "allRightsReserved": "All rights reserved.",
+    "footerNotice": "Informational website. Direct phone calls for inquiries and service bookings.",
+    "menuTitle": "Menu",
+    "languageSelectLabel": "Language",
+    "langHindi": "Hindi",
+    "langEnglish": "English (Default)"
+  },
+  "home": {
+    "hero": {
+      "badge": "Genuine Parts • All Pump Brands Serviced",
+      "headline": "Submersible Pump Repair & Service",
+      "subheadline": "Expert troubleshooting, 100% pure copper motor rewinding, shaft realignment, and borewell pump extraction for farms, factories, and domestic water systems.",
+      "callCta": "Call Now",
+      "locationCta": "View Workshop Location",
+      "badgeCopper": "100% Pure Copper Winding",
+      "badgeRig": "Borewell Pulling Rig",
+      "badgeTesting": "Insulation & Flow Tested",
+      "photoBadge": "Genuine Workshop Quality",
+      "photoSub": "Deep Borewell, Openwell & Motor Overhauls"
+    },
+    "symptoms": {
+      "tag": "Common Pump Breakdown Issues",
+      "heading": "Is your pump experiencing any of these problems?",
+      "sub": "Running a pump with damaged bearings or low insulation burns out the motor coil. Call us early to prevent severe motor damage.",
+      "btn": "Direct Technician Call",
+      "item1Title": "Zero or Low Discharge",
+      "item1Desc": "Worn out impellers, choked suction strainer, or broken shaft coupling drop water pressure.",
+      "item2Title": "Starter Panel Tripping",
+      "item2Desc": "High current draw, grounded stator winding, or weak starting capacitor cause tripping.",
+      "item3Title": "Motor Humming / Not Starting",
+      "item3Desc": "Sand jamming impellers, open phase wire, or seized bush bearings freeze the motor.",
+      "item4Title": "Heavy Vibration or Noise",
+      "item4Desc": "Bent rotor shaft, worn thrust bearing, or misaligned column pipe create intense vibration."
+    },
+    "services": {
+      "tag": "Complete Pump Solutions",
+      "heading": "Our Professional Repair Services",
+      "sub": "Every pump and motor is repaired by experienced winding technicians using genuine materials and tested under load.",
+      "turnaround": "Fast Workshop Turnaround"
+    },
+    "repairSection": {
+      "tag": "Workshop Service",
+      "heading": "Submersible Pump Repair & Motor Rewinding (Workshop)",
+      "desc": "In our workshop, all motors—from deep well submersible pumps to home domestic motors like cooler motors, ceiling fans, flour mill (ghar ghanti / atta chakki) motors, and booster pumps—are rewound and overhauled in-house.",
+      "point1": "Complete motor rewinding using 100% super enameled EC-grade copper wire.",
+      "point2": "Rewinding & servicing for flour mill motors, domestic tullu pumps, cooler motors & exhaust fans.",
+      "point3": "Lathe rotor truing for zero runout and installation of precision bronze/carbon bush bearings.",
+      "point4": "Replacement of damaged SS-304 or Noryl impellers and high-pressure mechanical face seals.",
+      "imageSub": "Motor coil rewinding, bush-shaft alignment & water seal overhaul",
+      "viewAllLink": "View Complete Repair Services & Technicians"
+    },
+    "borewellSection": {
+      "tag": "On-Site Field Service",
+      "heading": "Borewell Pump Pulling & Lowering Service (Field Rig)",
+      "desc": "Our specialized borewell field team has two primary core tasks: safe pulling & lowering of borewell pumps, and specialized retrieval of pumps stuck or trapped deep underground.",
+      "point1": "Heavy-duty tripod and electric winch pulling setups safe for tube-wells up to 600 feet deep.",
+      "point2": "Custom fishing tools to retrieve pumps stuck in sand, silt, or silt-choked casings.",
+      "point3": "100% vulcanized underwater cable jointing with high-grade self-amalgamating insulation.",
+      "point4": "Inspection and torque tightening of riser column pipes and NRV non-return valves.",
+      "imageSub": "Tripod winch rig, 600 ft borewell pipe line & stuck pump retrieval",
+      "viewAllLink": "View Borewell Field Services & Our Technicians"
+    },
+    "whyChooseUs": {
+      "tag": "Honest Craftsmanship",
+      "heading": "Why Customers Trust Our Workshop",
+      "sub": "We run a dedicated repair facility where motors are properly unwound, rewound, baked, varnished, and hydraulically tested.",
+      "point1Title": "Genuine Workshop & Dedicated Testing Rig",
+      "point1Desc": "We test water discharge and measure electrical amp draw on our test bench before handover.",
+      "point2Title": "100% Pure Electrolytic Copper Winding",
+      "point2Desc": "We use calibrated grade-A insulated copper wire, avoiding sub-standard aluminum wire.",
+      "point3Title": "Megger Insulation & Earth Testing",
+      "point3Desc": "Every repaired stator is megger tested for insulation resistance to prevent borewell electrical leakage.",
+      "point4Title": "Transparent Assessment & Honest Pricing",
+      "point4Desc": "We clearly inspect parts with customers, itemizing bush, seal, or coil costs without hidden fees.",
+      "badge": "100% Pure EC-Grade Copper",
+      "badgeSub": "Zero compromise on wire gauge or insulation film"
+    },
+    "process": {
+      "tag": "Clear & Systematic",
+      "heading": "Our 4-Step Repair Procedure",
+      "sub": "From initial testing to final water pressure bench testing, here is how we ensure reliable operation.",
+      "step1": "01",
+      "step1Title": "Initial Inspection & Intake",
+      "step1Desc": "We test winding continuity, megger insulation resistance, and rotor shaft rotation.",
+      "step2": "02",
+      "step2Title": "Complete Disassembly & Diagnosis",
+      "step2Desc": "Pump stages, impellers, thrust bearing, rotor shaft, and stator coils are inspected.",
+      "step3": "03",
+      "step3Title": "Precision Rewinding & Overhaul",
+      "step3Desc": "Motor coils are rewound with pure copper; impellers and mechanical seals are replaced.",
+      "step4": "04",
+      "step4Title": "Water Chamber Sealing & Test Run",
+      "step4Desc": "Waterproof chamber seals are re-pressurized. Full electrical current and discharge testing."
+    },
+    "otherMotorsSection": {
+      "tag": "Domestic & Workshop Motor Repairs",
+      "heading": "Cooler Motors, Ceiling Fans, Flour Mill & Home Motors",
+      "sub": "Along with submersible pumps, our workshop rewinds and repairs all domestic and commercial motors using 100% pure copper wire:",
+      "item1Title": "Flour Mill & Ghar Ghanti Motors",
+      "item1Desc": "Original copper rewinding and bearing replacement for 2 HP to 10 HP domestic and commercial flour mill motors.",
+      "item2Title": "Cooler Motors & Kits",
+      "item2Desc": "High-speed cooler motors, kit repairs, bush-shaft replacements, and pure copper rewinding.",
+      "item3Title": "Ceiling Fans & Exhausts",
+      "item3Desc": "Coil rewinding, capacitor tuning, and bearing servicing for ceiling fans, exhaust fans, and pedestal fans.",
+      "item4Title": "Domestic Tullu Pumps & Monoblock",
+      "item4Desc": "0.5 HP and 1 HP roof water booster pumps, water seal leak fixing, and impeller replacements."
+    },
+    "servicesBottomNotice": {
+      "text": "In addition to submersible pumps, our workshop repairs cooler motors, flour mill (ghar ghanti) motors, fans, and domestic tullu pumps with 100% pure copper.",
+      "linkText": "View Repair Services Page"
+    },
+    "troubleshootGuideNotice": "Check our guide to self-diagnose pump issues:",
+    "readGuideLink": "Read Troubleshooting Guide"
+  },
+  "repairPage": {
+    "badge": "Workshop Motor & Pump Repair",
+    "heading": "Submersible Pump, Flour Mill & Home Motor Repairing",
+    "sub": "In our workshop, we repair and rewind all motors with 100% genuine copper wire—from deep well submersible pumps to home cooler motors, ceiling and exhaust fans, flour mill (ghar ghanti / atta chakki) motors, and domestic tullu pumps.",
+    "imageCaption": "Workshop Coil Rewinding & Lathe Machining",
+    "imageBadge": "100% Pure Copper",
+    "standardsBadge": "Workshop Quality Standards",
+    "standardsTitle": "Precision Diagnostics & Company-Standard Pure Copper Rewinding",
+    "standardsDesc": "We never use cheap or undersized aluminum wire. We strictly use company-standard super enameled pure copper wire, Class-F/H insulation paper, precision lathe shaft truing, and brand-new carbon-gunmetal bushings.",
+    "standardsPoints": [
+      "100% EC Grade Copper Winding",
+      "Precision Lathe Shaft Alignment",
+      "High-Pressure Waterproof Seal Fitting",
+      "Megger Earth & Current Load Testing"
+    ],
+    "scopeTag": "Repair Scope",
+    "scopeDesc": "From deep-well submersible pumps to household and factory motors, everything is rewound and repaired in-house:",
+    "teamTag": "Workshop Technicians",
+    "specialtyLabel": "Specialty:",
+    "callWorkerPrefix": "Call ",
+    "callWorkerSuffix": "",
+    "bottomNoticeText": "Check our self-help troubleshooting guide before assuming your pump or motor is faulty.",
+    "bottomNoticeLink": "View Troubleshooting Guide",
+    "itemsTitle": "Motors & Equipment We Service and Rewind",
+    "items": [
+      {
+        "title": "Submersible Pumps & Borewell Motors",
+        "desc": "Copper rewinding, bush replacement, and mechanical seal overhauls for V4, V6, V8 deep tube-well pumps, openwell water-cooled and oil-cooled motors."
+      },
+      {
+        "title": "Flour Mill & Ghar Ghanti Motors",
+        "desc": "Heavy-duty 2 HP to 10 HP single-phase and 3-phase motor rewinding, bearing replacements, and thermal protection for domestic ghar ghanti and commercial atta chakkis."
+      },
+      {
+        "title": "Cooler Motors, Exhaust & Ceiling Fans",
+        "desc": "Coil rewinding, bush-shaft replacements, and capacitor tuning for desert cooler kits, high-speed cooler motors, exhaust fans, and ceiling fans."
+      },
+      {
+        "title": "Domestic Tullu Pumps & Monoblock Motors",
+        "desc": "0.5 HP and 1 HP domestic roof water booster pumps, centrifugal motors, brass impeller replacements, and mechanical seal leak repair."
+      },
+      {
+        "title": "Commercial & Industrial Induction Motors",
+        "desc": "3-phase heavy motor rewinding for workshops, factories, air compressors, and agricultural threshers, with vacuum baking and megger insulation tests."
+      }
+    ],
+    "teamTitle": "Our Workshop Repair Team (Expert Technicians)",
+    "teamSub": "You can directly call the specific technician handling your equipment:",
+    "workers": [
+      {
+        "name": "Ramesh Sharma",
+        "role": "Head Motor Rewinding Technician",
+        "exp": "20+ Years Experience",
+        "specialty": "Submersible pumps & 3-phase heavy industrial motors",
+        "phone": "+91 98765 43210",
+        "phoneRaw": "+919876543210"
+      },
+      {
+        "name": "Suresh Prajapati",
+        "role": "Flour Mill & Ghar Ghanti Motor Expert",
+        "exp": "15+ Years Experience",
+        "specialty": "Atta chakki, agricultural threshers & commercial motors",
+        "phone": "+91 98765 43212",
+        "phoneRaw": "+919876543212"
+      },
+      {
+        "name": "Vijay Kumar",
+        "role": "Submersible Pump Assembly & Shaft Technician",
+        "exp": "14+ Years Experience",
+        "specialty": "Impellers, carbon bushings, thrust bearings & lathe truing",
+        "phone": "+91 98765 43213",
+        "phoneRaw": "+919876543213"
+      },
+      {
+        "name": "Amit Verma",
+        "role": "Cooler, Fan & Domestic Motor Technician",
+        "exp": "10+ Years Experience",
+        "specialty": "Cooler motors, ceiling fans, exhausts & domestic tullu pumps",
+        "phone": "+91 98765 43214",
+        "phoneRaw": "+919876543214"
+      },
+      {
+        "name": "Kuldeep Singh",
+        "role": "Lathe Machining & Mechanical Seal Specialist",
+        "exp": "12+ Years Experience",
+        "specialty": "Rotor shaft alignment, bushing fitting & mechanical water seal testing",
+        "phone": "+91 98765 43215",
+        "phoneRaw": "+919876543215"
+      }
+    ]
+  },
+  "borewellPage": {
+    "badge": "On-Site Borewell Field Rig Team",
+    "heading": "Borewell Pump Pulling/Lowering & Stuck Pump Retrieval Service",
+    "sub": "Our dedicated borewell field team has 2 specialized services: pulling and lowering deep borewell pumps safely, and rescuing motors stuck in sand, silt, or collapsed casings without pipe damage.",
+    "imageCaption": "Tripod Winch Rig & Pipe Handling Setup",
+    "imageBadge": "Up to 600 ft Depth Capacity",
+    "rigBadge": "2 Core Borewell Field Operations",
+    "rigTitle": "Safe Borewell Pump Pulling & Stuck Motor Fishing Extraction",
+    "rigDesc": "Borewell extraction requires precision and care. Broken pipes or snapped cables can drop motors to the bottom. Our field team arrives on-site equipped with heavy-duty tripods, electric winches, and borehole fishing tools to safely retrieve pipe lines up to 600 ft without damage.",
+    "rigPoints": [
+      "Tripod & Winch Pump Pulling/Lowering",
+      "Special Fishing Tools for Sand/Rock Jammed Pumps",
+      "100% Waterproof Vulcanized Cable Joints",
+      "Riser Pipe Threads & NRV Valve Inspection"
+    ],
+    "scopeTag": "Field Operations",
+    "scopeDesc": "On-site field service for deep borewells in agricultural farms, tube-wells, residential societies, and factories:",
+    "teamTag": "Field Team Members",
+    "specialtyLabel": "Specialty:",
+    "callWorkerPrefix": "Call ",
+    "callWorkerSuffix": "",
+    "bottomNoticeText": "Check our self-check troubleshooting guide before pulling your pump from the well.",
+    "bottomNoticeLink": "View Troubleshooting Guide",
+    "featuresTitle": "Core Field Services by Our Borewell Team:",
+    "features": [
+      {
+        "title": "1. Borewell Pump & Pipe Pulling / Lowering (Up to 600 ft)",
+        "desc": "Heavy-duty tripod and motorized winch setups to safely pull pumps, GI pipes, and power cables from tube-wells up to 600 ft without buckling or breaking, and re-installing after overhaul."
+      },
+      {
+        "title": "2. Stuck Pump Retrieval (Fansi Hui Motor Nikalna)",
+        "desc": "When pumps are trapped by subterranean sand accumulation, dislodged rock, or distorted casings, our team uses specialized borehole fishing tools, hydraulic jacks, and reverse grippers to retrieve them safely."
+      },
+      {
+        "title": "3. 100% Vulcanized Waterproof Cable Joints",
+        "desc": "High-grade submarine cable vulcanized rubber splice joints that withstand high hydrostatic pressure at 500+ feet depth without electrical leakage."
+      },
+      {
+        "title": "4. Riser Column Pipe, Thread & NRV Valve Inspection",
+        "desc": "Complete torque inspection of pipe threads, gaskets, corrosion check, and non-return valve (NRV) testing to ensure full discharge pressure at ground level."
+      }
+    ],
+    "teamTitle": "Our Borewell Field Team (Expert Crew)",
+    "teamSub": "Speak directly with our on-site borewell incharge and rig operators:",
+    "workers": [
+      {
+        "name": "Balbir Singh",
+        "role": "Head Borewell Rig Operator",
+        "exp": "18+ Years Experience",
+        "specialty": "Deep borewell pump extraction & re-lowering",
+        "phone": "+91 98765 43211",
+        "phoneRaw": "+919876543211"
+      },
+      {
+        "name": "Rajinder Singh (Raju)",
+        "role": "Stuck Pump Retrieval Master",
+        "exp": "16+ Years Experience",
+        "specialty": "Specialized fishing tools for sand & rock jammed motors",
+        "phone": "+91 98765 43216",
+        "phoneRaw": "+919876543216"
+      },
+      {
+        "name": "Harpreet Singh",
+        "role": "Winch Operator & Tripod Specialist",
+        "exp": "11+ Years Experience",
+        "specialty": "Heavy load cable tensioning & lifting safety",
+        "phone": "+91 98765 43217",
+        "phoneRaw": "+919876543217"
+      },
+      {
+        "name": "Maninder Gill",
+        "role": "Waterproof Cable Jointing & Electrical Technician",
+        "exp": "12+ Years Experience",
+        "specialty": "Underwater vulcanized jointing & megger earthing checks",
+        "phone": "+91 98765 43218",
+        "phoneRaw": "+919876543218"
+      },
+      {
+        "name": "Gursewak Singh",
+        "role": "Column Pipe & Depth Gauging Incharge",
+        "exp": "10+ Years Experience",
+        "specialty": "Pipe thread inspection, check valves & borewell depth sounding",
+        "phone": "+91 98765 43219",
+        "phoneRaw": "+919876543219"
+      }
+    ]
+  },
+  "troubleshooting": {
+    "badge": "Customer Self-Check Guide",
+    "heading": "Common Pump Problems & Self-Check Solutions",
+    "sub": "Before calling a technician or pulling a pump from the borewell, check these basic electrical and mechanical points yourself. Often a simple switch or capacitor is all that is needed.",
+    "note": "Always turn off the main switch/MCB before inspecting control panel terminals or wiring. Never touch electrical connections with wet hands.",
+    "searchPlaceholder": "Search pump symptoms or problems (e.g. starter trip, no water, humming)...",
+    "safetyBadge": "Important Safety Notice:",
+    "switchOffBadge": "Main Switch OFF",
+    "symptomsLabel": "Symptoms:",
+    "selfCheckTitle": "Self-Check Steps:",
+    "solutionTitle": "Solution (What to do):",
+    "noResults": "No issues matched your search query. Please try simpler keywords or contact our team directly.",
+    "bottomNoticeText": "View full details and contact information for our workshop or borewell field teams.",
+    "viewRepairLink": "View Workshop Repair",
+    "viewBorewellLink": "View Borewell Team",
+    "issues": [
+      {
+        "id": "not-starting",
+        "title": "1. Starter Not Turning On / Motor Not Starting At All",
+        "symptoms": "Pressing the green starter button produces no response, or contactor will not engage.",
+        "selfCheck": [
+          "Check if main breaker (MCB) or fuse has tripped.",
+          "Check voltage tester on input lines to confirm full 3-phase power (or 220V on single-phase).",
+          "Press the red overload reset button on the starter relay."
+        ],
+        "solution": "If voltage is below 180V or one phase is missing, do not attempt to start. Once voltage stabilizes, press the reset button and restart."
+      },
+      {
+        "id": "tripping",
+        "title": "2. Starter Engages But Trips Out Within 5 to 10 Seconds",
+        "symptoms": "Motor tries to turn and the starter contactor abruptly cuts off.",
+        "selfCheck": [
+          "Observe the starter ammeter: is the needle jumping past normal current into high overload?",
+          "On single-phase motors, check if the run/start capacitor is bulged or weak.",
+          "Verify the discharge water delivery valve is not fully shut or blocked."
+        ],
+        "solution": "Replace bulged or weak capacitors with identical MFD rating. If amp draw exceeds 30-40A, the pump may be mechanically seized; do not repeatedly restart to protect the windings."
+      },
+      {
+        "id": "no-water",
+        "title": "3. Motor Running Smoothly But Delivering Zero Water",
+        "symptoms": "Starter remains on, motor sound is audible, but no water reaches the discharge pipe.",
+        "selfCheck": [
+          "On 3-phase pumps, check if the motor is rotating backward (reversed phase rotation).",
+          "Has the underground borewell water table dropped below the pump intake?",
+          "Is the column pipe check valve (NRV) stuck shut?"
+        ],
+        "solution": "On 3-phase starters, swap any two incoming phase wires (e.g., Red and Blue). This reverses motor rotation to forward, instantly restoring discharge. If still dry, water level may be depleted."
+      },
+      {
+        "id": "low-pressure",
+        "title": "4. Low Water Discharge Pressure or Surging with Air Bubbles",
+        "symptoms": "Water flow is cut in half or surges irregularly with spurts of air.",
+        "selfCheck": [
+          "Inspect surface pipes, elbows, and nipples for pinhole leaks or cracked fittings.",
+          "Check if water discharge contains heavy silt or sand.",
+          "Check line voltage: low voltage reduces motor RPM and discharge head."
+        ],
+        "solution": "If voltage is nominal, column pipes down the well may have cracked or impellers have eroded from abrasive sand. An overhaul is required to replace worn diffusers."
+      },
+      {
+        "id": "humming",
+        "title": "5. Starter Produces Loud Buzzing/Humming, Motor Doesn't Spin",
+        "symptoms": "Motor fails to spin, a loud hum comes from the starter or motor, and wires heat up rapidly.",
+        "selfCheck": [
+          "Check for Single Phasing (loss of one phase in a 3-phase supply).",
+          "On single-phase motors, verify the start capacitor terminal wire has not disconnected."
+        ],
+        "solution": "Immediately push the red Stop button! Single phasing will incinerate copper stator coils within 60 seconds. Rectify utility line power before restarting."
+      }
+    ],
+    "helpCard": {
+      "heading": "Checked everything and still not working?",
+      "sub": "If voltage and starters are verified but the pump remains unresponsive, contact our direct technicians.",
+      "repairTitle": "Workshop Repair Technician:",
+      "borewellTitle": "Borewell Pulling Rig Team:"
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "Direct Workshop Contact",
+      "heading": "Contact & Workshop Details",
+      "sub": "We handle all customer inquiries directly by phone for fast response and real-time technical diagnosis. Call our workshop or visit us during working hours."
+    },
+    "cards": {
+      "phoneTitle": "Primary Phone (Direct)",
+      "phoneSub": "Direct line to workshop technicians. Instant guidance for pump breakdowns.",
+      "callBtn": "Call Now",
+      "addressTitle": "Physical Workshop",
+      "mapsBtn": "Open in Google Maps",
+      "hoursTitle": "Service Hours",
+      "emergencySub": "Emergency calls attended on Sunday for urgent water breakdowns."
+    },
+    "coverage": {
+      "tag": "Service Coverage",
+      "heading": "Areas & Facilities We Service",
+      "sub": "We accept walk-in pump drops at our workshop and dispatch our on-site team with lifting equipment for borewell pump extractions across the region:",
+      "adviceTitle": "Why do we recommend calling directly instead of form submission?",
+      "adviceDesc": "Submersible pump failures demand immediate diagnosis (HP rating, borewell depth, starter tripping symptoms). Speaking on the phone gives you instant technical clarity."
+    },
+    "map": {
+      "heading": "Workshop Location Map",
+      "sub": "Located in the main industrial zone with easy truck and tractor trolley access for heavy pump loading.",
+      "directionsBtn": "Open Directions"
+    }
+  },
+  "servicesList": [
+    {
+      "id": "borewell-pump-repair",
+      "title": "Submersible Borewell Pump Repair",
+      "shortDesc": "Full overhaul of 4-inch, 6-inch, and 8-inch deep-well submersible pumps including staging, bearing replacement, and flow restoration.",
+      "keyFeatures": [
+        "4\", 6\", 8\" and 10\" deep-well pumps",
+        "Diffuser and stage chamber refurbishing",
+        "Thrust bearing inspection & clearance tuning",
+        "Flow pressure benchmarking after overhaul"
+      ]
+    },
+    {
+      "id": "motor-rewinding",
+      "title": "Precision Copper Motor Rewinding",
+      "shortDesc": "Heavy-duty rewinding for single-phase and three-phase submersible motors using high-grade electrolytic copper wire and dual insulation.",
+      "keyFeatures": [
+        "100% EC grade copper winding wire",
+        "Submersible water-proof winding cables",
+        "Megger insulation & winding resistance testing",
+        "Vacuum varnish & thermal protection check"
+      ]
+    },
+    {
+      "id": "impeller-seal-service",
+      "title": "Impeller, Shaft & Mechanical Seal Replacement",
+      "shortDesc": "Machining, dynamic shaft balancing, precision bushing fitting, and carbon-ceramic mechanical seal installation to stop leakage.",
+      "keyFeatures": [
+        "SS-304 & Noryl impeller replacement",
+        "Lathe truing for rotor shaft run-out",
+        "High-pressure mechanical seal replacements",
+        "Sand-guard & slinger ring servicing"
+      ]
+    },
+    {
+      "id": "borewell-pulling-installation",
+      "title": "Borewell Pump & Pipe Pulling up to 600 ft",
+      "shortDesc": "On-site tripod and winch assistance to pull stuck or failed pumps from tube-wells up to 600 ft and safely lower repaired units.",
+      "keyFeatures": [
+        "Tripod and mechanical winch rig",
+        "Waterproof 3-core vulcanized cable jointing",
+        "Non-return valve (NRV) testing & replacement",
+        "Column pipe inspection and torque tightening"
+      ]
+    },
+    {
+      "id": "control-panel-troubleshooting",
+      "title": "Control Panel & Starter Diagnostics",
+      "shortDesc": "Troubleshooting DOL and Star-Delta starter panels, overload relay calibration, contactor replacement, and capacitor bank testing.",
+      "keyFeatures": [
+        "Single-phase and 3-phase starter repairs",
+        "Running & starting capacitor bank checks",
+        "Thermal overload relay calibration",
+        "Dry-run & high/low voltage cut-off setup"
+      ]
+    },
+    {
+      "id": "openwell-monoblock-service",
+      "title": "Openwell Submersible & Monoblock Service",
+      "shortDesc": "Complete servicing for farm openwell pumps, sump pumps, and monoblocks operating submerged in open sumps and canals.",
+      "keyFeatures": [
+        "Horizontal and vertical openwell units",
+        "Chamber seal leak inspection",
+        "Anti-corrosive priming and casing seals",
+        "Direct sump installation verification"
+      ]
+    }
+  ],
+  "footerWorks": [
+    "Submersible Pump Overhaul (V4, V6, V8, V10)",
+    "100% Pure EC Copper Motor Rewinding",
+    "Flour Mill & Ghar Ghanti Motors (2 to 10 HP)",
+    "Desert Cooler Motors, Kits & Fan Rewinding",
+    "Domestic Tullu & Booster Pump Repair",
+    "Borewell Pump & Pipe Pulling up to 600 ft",
+    "Stuck & Trapped Pump Fishing Services",
+    "Lathe Rotor Truing, Bush & Mechanical Seal"
+  ],
+  "about": {
+    "badge": "20+ Years Workshop Legacy • Fully In-House Facility",
+    "title": "Submersible Pump Overhauls, Motor Rewinding & Borewell Rig Services",
+    "desc": "Precision engineering for agricultural, industrial, and domestic pumps. 100% pure copper rewinding, dynamic lathe balancing, hydraulic test-tank benchmarks, and deep-well motorized extraction up to 600 ft.",
+    "stats": {
+      "expVal": "20+",
+      "expLabel": "Years Experience",
+      "expTag": "Legacy",
+      "copperVal": "100%",
+      "copperLabel": "Pure EC Copper Wire",
+      "copperTag": "Winding",
+      "depthVal": "600 ft",
+      "depthLabel": "Pipe Line Capacity",
+      "depthTag": "Field Work",
+      "teamVal": "Expert Crew",
+      "teamLabel": "Workshop & Rig Team",
+      "teamTag": "Team"
+    },
+    "story": {
+      "badge": "Our Craftsmanship",
+      "title": "Reliable Motor Repair Demands Precision & Pure Materials",
+      "p1": "Submersible pumps operate submerged hundreds of feet deep under continuous hydrostatic load. Substandard aluminum wire or cheap seals lead to premature burnouts, causing massive pulling expenses and farm downtime.",
+      "p2": "At our facility, every step—disassembly, EC-grade copper rewinding, dynamic lathe rotor truing, bush fitting, and water test-tank pressure benchmarking—is performed in-house by trained technicians with zero third-party reliance.",
+      "imgTag1": "Fully Equipped Workshop",
+      "imgTag2": "Zero Outsourcing",
+      "imgBadge": "100% In-House Work",
+      "point1": "100% Pure EC Copper Wire",
+      "point2": "Lathe Rotor Truing & Bush",
+      "point3": "Hydraulic Test Tank Run",
+      "point4": "1000V Megger Insulation Check"
+    },
+    "divisions": {
+      "tag": "Our 2 Specialized Divisions",
+      "title": "Dedicated Workshop Team & On-Site Borewell Field Team",
+      "sub": "Staffed with dedicated technicians for workshop overhauls and on-site borewell rig operations to ensure work is completed on time without delays:",
+      "workshopTitle": "Workshop Motor Repair Team (Expert Technicians)",
+      "workshopTag": "Division 01 • In-Shop Repairs",
+      "workshopDesc": "Precision rewinding and overhauls for submersible pumps, flour mill (ghar ghanti) motors, desert coolers, ceiling fans, and domestic booster pumps.",
+      "workshopPoints": [
+        "Submersible pump (V4, V6, V8, V10) rewinding & seal changes",
+        "Flour mill & ghar ghanti (2 to 10 HP) heavy motor overhauls",
+        "Desert cooler motors, kits, and industrial exhaust fan rewinding",
+        "Domestic tullu and booster pump bush-shaft lathe setting & seals",
+        "Benchmarked inside water pressure tank before customer handover"
+      ],
+      "workshopBtn": "View Repair Services & Technicians",
+      "borewellTitle": "Borewell Field Team (Expert Crew)",
+      "borewellTag": "Division 02 • On-Site Operations",
+      "borewellDesc": "Safe extraction and lowering of pumps and riser pipes up to 600 ft, plus specialized borehole fishing tools to safely retrieve trapped pumps.",
+      "borewellPoints": [
+        "Safe pulling & lowering of borewell pumps and pipes up to 600 ft",
+        "Specialized reverse fishing tools to retrieve sand/rock trapped pumps",
+        "100% vulcanized waterproof electrical cable joints underwater",
+        "Riser column pipe inspection, thread check, and NRV valve testing",
+        "Fast emergency field dispatch with rig equipment to your site"
+      ],
+      "borewellBtn": "View Borewell Services & Field Crew"
+    },
+    "scope": {
+      "tag": "Complete Service Portfolio",
+      "title": "Equipment & Motors We Regularly Overhaul",
+      "sub": "From agricultural deep-wells to domestic appliances, all under one trusted roof:",
+      "item1Title": "Deep Well Submersible Pumps (V4, V6, V8, V10)",
+      "item1Desc": "Overhauls for 3\" to 10\" multi-stage deep-well pumps, EC copper rewinding, impeller staging, carbon bushes, and face seals.",
+      "item1Pills": "Copper Winding • Impeller • Tank Test",
+      "item2Title": "Flour Mill & Ghar Ghanti Motors",
+      "item2Desc": "2 HP to 10 HP heavy-duty motor rewinding, centrifugal switch setting, and precision bearing replacements for household and commercial mills.",
+      "item2Pills": "2 HP to 10 HP • Heavy Duty Copper",
+      "item3Title": "Cooler Motors, Kits & Fans",
+      "item3Desc": "Desert cooler motors, kits, ceiling fans, farata fans, and industrial exhausts rewound with calibrated copper wire.",
+      "item3Pills": "Cooler Kit • Fan Winding • Bush-Shaft",
+      "item4Title": "Domestic Tullu & Booster Pumps",
+      "item4Desc": "0.5 HP and 1 HP household water booster pumps, brass impellers, mechanical face seal leak repair, and bench pressure run.",
+      "item4Pills": "0.5 HP & 1 HP • Seal Leak Fix",
+      "item5Title": "Openwell & Sewage Submersible",
+      "item5Desc": "Submerged horizontal/vertical openwell pumps for farm sumps, water tanks, plus basement cutter sewage pumps.",
+      "item5Pills": "Water/Oil Cooled • Sewage Pumps",
+      "item6Title": "Borewell Pipe Line & Stuck Pump Fishing",
+      "item6Desc": "Safe extraction of pipes and motors up to 600 ft, paired with downhole reverse fishing tools to safely retrieve trapped pumps.",
+      "item6Pills": "600 ft Line • Fishing Tools"
+    },
+    "machinery": {
+      "tag": "Workshop Infrastructure",
+      "title": "Fully Equipped Machine Shop & Testing Facilities",
+      "sub": "We do not outsource any phase of the repair. Every measurement, alignment, and test run is conducted directly on our premises:",
+      "imgTag1": "Lathe Machining & Test Rig",
+      "imgTag2": "100% In-House Setup",
+      "item1Title": "Water Pressure Tank (Test Tank)",
+      "item1Desc": "Pumps are submerged in our testing tank to benchmark real-time water head and amp draw.",
+      "item2Title": "Heavy-Duty Lathe (Lathe Truing)",
+      "item2Desc": "Rotor truing for zero runout and machining of precision bronze/carbon bush bearings.",
+      "item3Title": "Megger Tester (Insulation Test)",
+      "item3Desc": "High-voltage insulation resistance testing to guarantee zero electrical leakage in the well.",
+      "item4Title": "Borewell Pipe Rig Setup",
+      "item4Desc": "Safe and dependable pipe line lifting setup handling tube-well installations up to 600 ft."
+    },
+    "guarantee": {
+      "tag": "Our Quality Promise",
+      "title": "5 Solid Principles Behind Every Repair",
+      "sub": "Engineered for durability so your pump runs season after season without breakdown:",
+      "item1Title": "100% Pure EC Copper",
+      "item1Desc": "We only use original gauge electrolytic grade copper wire for maximum longevity.",
+      "item2Title": "Tank-Tested Delivery",
+      "item2Desc": "Every pump is run inside our hydraulic test tank to verify amp draw and water pressure.",
+      "item3Title": "Lathe Precision",
+      "item3Desc": "Precision lathe turning to eliminate rotor runout and prevent shaft jamming.",
+      "item4Title": "Transparent Pricing",
+      "item4Desc": "Upfront explanation of the fault with honest pricing and no hidden costs.",
+      "item5Title": "Fast Field Dispatch",
+      "item5Desc": "Immediate field mobilization for deep well pulling and stuck pump fishing."
+    },
+    "bottomNotice": {
+      "text": "View full services and technician details for our workshop or borewell field teams.",
+      "repairLink": "View Workshop Repair",
+      "borewellLink": "View Borewell Team"
+    }
+  }
+}

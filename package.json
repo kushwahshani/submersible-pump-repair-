@@ -5,6 +5,7 @@
 	"packageManager": "npm",
 	"dependencies": {
 		"@vinext/cloudflare": "latest",
+		"lucide-react": "^1.61.0",
 		"react": "latest",
 		"react-dom": "latest",
 		"react-server-dom-webpack": "latest",
@@ -25,7 +26,7 @@
 	},
 	"type": "module",
 	"scripts": {
-		"dev": "vite dev",
+		"dev": "vite dev --host 0.0.0.0 --port 3000",
 		"build": "vite build",
 		"start": "vite preview",
 		"deploy": "vinext-cloudflare deploy",
