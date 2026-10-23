@@ -72,7 +72,7 @@ export function MobileStickyCallBar() {
           id="mobile-sticky-call-btn"
           href={`tel:${businessData.phoneRaw}`}
           className="flex items-center justify-center gap-1.5 bg-slate-900 hover:bg-slate-800 text-white font-semibold px-4 py-2 rounded-lg text-sm transition-all active:scale-95 shadow-sm"
-          aria-label="Call Apex Pump Repair Now"
+          aria-label="Call Kushwah Pump Repair Now"
         >
           <PhoneCall className="w-4 h-4" />
           <span>{t.common.callNow}</span>

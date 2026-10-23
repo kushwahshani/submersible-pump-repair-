@@ -1,6 +1,6 @@
 {
   "common": {
-    "brandName": "Apex Submersible Pump Repair",
+    "brandName": "Kushwah Submersible Pump Repair",
     "brandTagline": "Submersible Pump & Motor Rewinding Specialists",
     "topNotice": "Dedicated Workshop & On-Site Borewell Pump Repair Service",
     "timing": "Mon–Sat: 8:00 AM – 8:00 PM",
@@ -14,9 +14,9 @@
     "callForRepair": "Call for repair",
     "callWorkshop": "Speak with Head Technician",
     "mobileHelpPrompt": "Need Immediate Help?",
-    "phone": "+91 98765 43210",
-    "repairWorkerPhone": "+91 98765 43210",
-    "borewellWorkerPhone": "+91 98765 43211",
+    "phone": "+91 97136 12298",
+    "repairWorkerPhone": "+91 97136 12298",
+    "borewellWorkerPhone": "+91 96170 91462",
     "address": "Plot No. 42, Industrial Area Phase 1, Near Water Works, Main Bypass Road",
     "workingHours": "Monday – Saturday: 8:00 AM – 8:00 PM | Sunday: Emergency On-Call",
     "allRightsReserved": "All rights reserved.",
@@ -183,44 +183,20 @@
     "teamSub": "You can directly call the specific technician handling your equipment:",
     "workers": [
       {
-        "name": "Ramesh Sharma",
-        "role": "Head Motor Rewinding Technician",
-        "exp": "20+ Years Experience",
-        "specialty": "Submersible pumps & 3-phase heavy industrial motors",
-        "phone": "+91 98765 43210",
-        "phoneRaw": "+919876543210"
-      },
-      {
-        "name": "Suresh Prajapati",
-        "role": "Flour Mill & Ghar Ghanti Motor Expert",
-        "exp": "15+ Years Experience",
-        "specialty": "Atta chakki, agricultural threshers & commercial motors",
-        "phone": "+91 98765 43212",
-        "phoneRaw": "+919876543212"
-      },
-      {
-        "name": "Vijay Kumar",
-        "role": "Submersible Pump Assembly & Shaft Technician",
-        "exp": "14+ Years Experience",
-        "specialty": "Impellers, carbon bushings, thrust bearings & lathe truing",
-        "phone": "+91 98765 43213",
-        "phoneRaw": "+919876543213"
-      },
-      {
-        "name": "Amit Verma",
-        "role": "Cooler, Fan & Domestic Motor Technician",
+        "name": "Shankar Dada",
+        "role": "Head of Repair (Repair Head)",
         "exp": "10+ Years Experience",
-        "specialty": "Cooler motors, ceiling fans, exhausts & domestic tullu pumps",
-        "phone": "+91 98765 43214",
-        "phoneRaw": "+919876543214"
+        "specialty": "Submersible pump repair, motor rewinding & complete overhaul",
+        "phone": "+91 97136 12298",
+        "phoneRaw": "+919713612298"
       },
       {
-        "name": "Kuldeep Singh",
-        "role": "Lathe Machining & Mechanical Seal Specialist",
-        "exp": "12+ Years Experience",
-        "specialty": "Rotor shaft alignment, bushing fitting & mechanical water seal testing",
-        "phone": "+91 98765 43215",
-        "phoneRaw": "+919876543215"
+        "name": "Natwar Dada",
+        "role": "Repair Chief",
+        "exp": "15+ Years Experience",
+        "specialty": "Submersible pump assembly, copper motor rewinding & shaft alignment",
+        "phone": "+91 96170 91462",
+        "phoneRaw": "+919617091462"
       }
     ]
   },
@@ -270,44 +246,12 @@
     "teamSub": "Speak directly with our on-site borewell incharge and rig operators:",
     "workers": [
       {
-        "name": "Balbir Singh",
-        "role": "Head Borewell Rig Operator",
-        "exp": "18+ Years Experience",
-        "specialty": "Deep borewell pump extraction & re-lowering",
-        "phone": "+91 98765 43211",
-        "phoneRaw": "+919876543211"
-      },
-      {
-        "name": "Rajinder Singh (Raju)",
-        "role": "Stuck Pump Retrieval Master",
-        "exp": "16+ Years Experience",
-        "specialty": "Specialized fishing tools for sand & rock jammed motors",
-        "phone": "+91 98765 43216",
-        "phoneRaw": "+919876543216"
-      },
-      {
-        "name": "Harpreet Singh",
-        "role": "Winch Operator & Tripod Specialist",
-        "exp": "11+ Years Experience",
-        "specialty": "Heavy load cable tensioning & lifting safety",
-        "phone": "+91 98765 43217",
-        "phoneRaw": "+919876543217"
-      },
-      {
-        "name": "Maninder Gill",
-        "role": "Waterproof Cable Jointing & Electrical Technician",
-        "exp": "12+ Years Experience",
-        "specialty": "Underwater vulcanized jointing & megger earthing checks",
-        "phone": "+91 98765 43218",
-        "phoneRaw": "+919876543218"
-      },
-      {
-        "name": "Gursewak Singh",
-        "role": "Column Pipe & Depth Gauging Incharge",
-        "exp": "10+ Years Experience",
-        "specialty": "Pipe thread inspection, check valves & borewell depth sounding",
-        "phone": "+91 98765 43219",
-        "phoneRaw": "+919876543219"
+        "name": "Natwar Dada",
+        "role": "Repair Chief & Borewell Incharge",
+        "exp": "20+ Years Experience",
+        "specialty": "Borewell pump pulling, lowering & stuck pump retrieval",
+        "phone": "+91 96170 91462",
+        "phoneRaw": "+919617091462"
       }
     ]
   },

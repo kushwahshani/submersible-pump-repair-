@@ -49,18 +49,18 @@ export interface BusinessData {
 }
 
 export const businessData: BusinessData = {
-  name: "Apex Submersible Pump Repair & Motor Rewinding",
-  shortName: "Apex Pump Repair",
+  name: "Kushwah Submersible Pump Repair & Motor Rewinding",
+  shortName: "Kushwah Pump Repair",
   tagline: "Professional Submersible Pump Repair & Precision Motor Rewinding",
   headline: "Submersible Pump Repair & Service",
   subheadline:
     "Expert troubleshooting, copper motor rewinding, shaft realignment, and borewell pump restoration for agricultural, industrial, and domestic water systems.",
-  phone: "+91 98765 43210",
-  phoneRaw: "+919876543210",
-  repairWorkerPhone: "+91 98765 43210",
-  repairWorkerPhoneRaw: "+919876543210",
-  borewellWorkerPhone: "+91 98765 43211",
-  borewellWorkerPhoneRaw: "+919876543211",
+  phone: "+91 97136 12298",
+  phoneRaw: "+919713612298",
+  repairWorkerPhone: "+91 97136 12298",
+  repairWorkerPhoneRaw: "+919713612298",
+  borewellWorkerPhone: "+91 96170 91462",
+  borewellWorkerPhoneRaw: "+919617091462",
   address: {
     line1: "Plot No. 42, Industrial Area Phase 1",
     line2: "Near Water Works & Grain Market Bypass",

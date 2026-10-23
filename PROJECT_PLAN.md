@@ -101,8 +101,8 @@ submersible-repair-website/
 
 ### 7. Business Information
 
-- **Business Name:** Apex Submersible Pump Repair & Motor Rewinding Service
-- **Primary Contact Number:** `+91 98765 43210` (customizable)
+- **Business Name:** Kushwah Submersible Pump Repair & Motor Rewinding Service
+- **Primary Contact Number:** `+91 97136 12298` / `+91 96170 91462`
 - **Service Area:** Industrial areas, agricultural farms, residential & commercial complexes across city & surrounding regions
 - **Business Hours:** Monday – Saturday: 8:00 AM – 8:00 PM | Sunday: Emergency On-Call
 - **Confirmed Services:**
